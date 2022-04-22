@@ -1,0 +1,136 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+
+}
+ul{
+    text-align: right;
+    margin-left: 50px;
+    padding-right: 150px;
+    margin-top: 25px;
+
+}
+.nav-item{
+    font-size: 20px;
+    display: inline-block;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.nav-link{
+    text-align: right;
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+
+
+#type-1{
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+#type-2{
+    color: purple;
+    font-weight: bold;
+    margin-left: 150px;
+    font-size: 40px;        
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+#type-3{
+    font-weight: 500;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 100px;
+}
+
+img{
+    
+    height: 300px;
+    width: 280px;
+}
+.floatRight{
+    
+    float:right;
+    margin-right: 250px;
+    margin-top: 20px;
+}
+
+#about-color{
+    background-color: whitesmoke;
+    padding: 100px;
+}
+
+#hello-1{
+    text-align: right;
+    margin-right: 300px;
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+}
+
+.hello-2{
+    text-align: right;
+    margin-right: 185px;
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+button{
+    text-align: right;
+    background-color: goldenrod;
+    color: white;
+    padding: 5px;
+    margin-left: 930px;
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    border-radius: 5%;
+    margin-top: 0px;
+}
+
+#picture-2{
+    height: 250px;
+    width: 210px;
+    text-align: left;
+}
+#mu-1{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    padding: 10px;
+}
+#foot-1{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+#foot-2{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.picture-2{
+    margin: 60px;
+    margin-left: 110px;
+    
+}
